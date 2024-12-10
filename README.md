@@ -1,6 +1,6 @@
 # Assessing Water Stress, International Migration, and Development Nexus using Explainable Artificial Intelligence and Interpretable Machine Learning
 ## Overview
-This thesis investigates the complex relationship between water stress, international migration, and development. By employing Explainable Artificial Intelligence (XAI) and interpretable machine learning models, the study explores how water stress interacts with demographic and economic factors to influence migration patterns. The research addresses a critical gap in the field by focusing on both migrant origin and destination countries across multiple decades, providing a large-scale empirical perspective.
+This thesis is a part of the project **Non-migrability - Non-migration of people at risks**. This project investigates the complex relationship between water stress, international migration, and development. By employing Explainable Artificial Intelligence (XAI) and interpretable machine learning models, the study explores how water stress interacts with demographic and economic factors to influence migration patterns. The research addresses a critical gap in the field by focusing on both migrant origin and destination countries across multiple decades, providing a large-scale empirical perspective.
 
 ---
 
